@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>FramHub</b></h1>
+<h1 align="center"><b>FarmHub</b></h1>
 <!-- <div align="center">
 <img src="frontend/public/Images/main-logo.png"/>
 </div>
